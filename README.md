@@ -1,4 +1,4 @@
-# BOWDANet
-Source code for BOWDANet
+# BOWDA-Net
+Source code for BOWDA-Net
 
 

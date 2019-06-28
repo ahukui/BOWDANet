@@ -9,7 +9,7 @@ from keras.layers.core import Dropout
 from keras.layers.pooling import AveragePooling3D
 from keras.layers.merge import concatenate,add
 from keras.layers.advanced_activations import LeakyReLU
-
+#part of code from DenseNet
 def __conv_block(ip, nb_filter, bottleneck, dropout_rate, weight_decay,train_flage,name_flage):
     ''' Apply BatchNorm, Relu, 3x3 Conv2D, optional bottleneck block and dropout
     Args:

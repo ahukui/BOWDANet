@@ -1,5 +1,6 @@
 # BOWDA-Net
 Source code for BOWDA-Net
+https://ieeexplore.ieee.org/document/8795525
 
 
 Please cite our paper if you use this code in your own work:
